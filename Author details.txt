@@ -1,4 +1,9 @@
 Author Name: Aditi Bardhan
 Profession:Developer
 Domain:AI,Cybersecurity,Full Stack development
+<<<<<<< HEAD
 Company Name:Bhargawa InfoTech Solutions Pvt Ltd
+=======
+Education:MSc,BE
+Branch Name:Test
+>>>>>>> remotes/origin/Test
